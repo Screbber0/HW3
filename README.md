@@ -17,6 +17,7 @@ lea	rax, -8[rbp]
 mov	rsi, rax
 заменил сразу на 
 lea	rsi, -8[rbp]
+
 lea	rax, -12[rbp]
 mov	rsi, rax
 заменил сразу на 
